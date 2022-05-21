@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Created this file to be able to compare a file with the same name in another branch
+=======
+adding a new line to the file
+
+Created a new branch and now wanting to merge with master branch
+>>>>>>> new_feature
